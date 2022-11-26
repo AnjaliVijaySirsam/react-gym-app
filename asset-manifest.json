@@ -1,15 +1,14 @@
 {
-  "main.css": "/react-gym-app/static/css/main.47688a6e.chunk.css",
-  "main.js": "/react-gym-app/static/js/main.703fb97d.chunk.js",
-  "main.js.map": "/react-gym-app/static/js/main.703fb97d.chunk.js.map",
-  "static/js/1.10979939.chunk.js": "/react-gym-app/static/js/1.10979939.chunk.js",
-  "static/js/1.10979939.chunk.js.map": "/react-gym-app/static/js/1.10979939.chunk.js.map",
-  "runtime~main.js": "/react-gym-app/static/js/runtime~main.7e413101.js",
-  "runtime~main.js.map": "/react-gym-app/static/js/runtime~main.7e413101.js.map",
-  "static/media/gym.png": "/react-gym-app/static/media/gym.3b602365.png",
-  "static/media/banner.png": "/react-gym-app/static/media/banner.ba78eef3.png",
-  "static/css/main.47688a6e.chunk.css.map": "/react-gym-app/static/css/main.47688a6e.chunk.css.map",
-  "index.html": "/react-gym-app/index.html",
-  "precache-manifest.18935c1a14aa646e77bf5c183457010a.js": "/react-gym-app/precache-manifest.18935c1a14aa646e77bf5c183457010a.js",
-  "service-worker.js": "/react-gym-app/service-worker.js"
+  "files": {
+    "main.css": "/FilmyDuniya/static/css/main.334bdeb1.css",
+    "main.js": "/FilmyDuniya/static/js/main.ff675a74.js",
+    "index.html": "/FilmyDuniya/index.html",
+    "static/media/search.svg": "/FilmyDuniya/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/FilmyDuniya/static/css/main.334bdeb1.css.map",
+    "main.ff675a74.js.map": "/FilmyDuniya/static/js/main.ff675a74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.ff675a74.js"
+  ]
 }
